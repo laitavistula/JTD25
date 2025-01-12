@@ -75,3 +75,6 @@ Automated translation is here to stay. For translation teams to adapt and trigge
 As things stand, we will continue to see certain segments of the translation market shrink, especially affecting small businesses and cost-sensitive clients. In-house teams will spend less on services and technology, and vendors will focus more on marketing and product services. Translation companies may diversify into interpreting, content creation, and design.
 
 I hope upcoming industry research will examine this trend more deeply and provide forecasts for 2025. In the 2000s, there were over 2,000 significant translation agencies and 50,000-100,000 micro-businesses. Today, fewer tools and platforms dominate in every category, with fewer than 10 reaching prominence. How many translation companies will survive when the market consolidates?
+
+<button type="button" name="button" class="btn">Button element</button>
+
