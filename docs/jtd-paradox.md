@@ -12,6 +12,7 @@ Language Industry Researcher | Founder @ Custom.MT
 December 16, 2024
 
 Automated translation was expected to increase productivity and create more demand for services. However, there is a downturn. This year, many translation companies have reported lower revenues, and some in-house localization teams have been downsized or eliminated. Below are some public examples from Language Service Providers (LSPs) showing this trend.
+- this paragraph needs changes
 
 ## Examples of Decline
 
@@ -24,6 +25,7 @@ Automated translation was expected to increase productivity and create more dema
 While these examples are from large companies, smaller, traditional businesses are feeling the decline more. Surveys from Nimdzi, Slator, and CSA confirm the extent of the gap. The signs are clear, and current evidence points to a concerning trend.
 
 Even though machine translation (MT) allows more content to be translated at lower costs, the expected surge in demand has not happened. Why?
+- here a bullet list is required
 
 ## Jevon's Paradox
 
