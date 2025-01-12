@@ -1,5 +1,5 @@
 ---
-title:Pre-editing
+title: Pre-editing
 layout: default
 parent: Decline in Translation
 nav_order: 1
