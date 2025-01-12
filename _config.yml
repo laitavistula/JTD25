@@ -1,11 +1,9 @@
 title: My Just the Docs practice
 description: My Just the Docs practice
 theme: just-the-docs
+color_scheme: foo
 
 url: https://laitavistula.github.io/JTD25
 
 aux_links:
   Template Repository: https://github.com/laitavistula/JTD25
-
-  color_scheme: foo
-
