@@ -1,7 +1,7 @@
 ---
 title: Decline in Translation
 layout: default
-nav_oder: 2
+nav_oder: 1
 ---
 
 # Decline in Translation Industry and Jevon's Paradox  

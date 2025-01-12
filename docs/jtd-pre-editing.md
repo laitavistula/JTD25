@@ -1,7 +1,7 @@
 ---
-title: Decline in Translation
+title: Pre-editing
 layout: default
-nav_oder: 3
+nav_oder: 2
 ---
 # Pre-editing  
 
