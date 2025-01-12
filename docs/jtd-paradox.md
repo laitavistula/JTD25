@@ -1,3 +1,9 @@
+---
+title: Decline in Translation
+layout: default
+nav_oder: 2
+---
+
 # Decline in Translation Industry and Jevon's Paradox  
 **Konstantin Dranch**  
 Language Industry Researcher | Founder @ Custom.MT  
