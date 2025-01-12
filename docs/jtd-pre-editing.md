@@ -1,7 +1,8 @@
 ---
-title: Pre-editing
+title:Pre-editing
 layout: default
-nav_oder: 2
+parent:Decline in Translation
+nav_order: 1
 ---
 # Pre-editing  
 
