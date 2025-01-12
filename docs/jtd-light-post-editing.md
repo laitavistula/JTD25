@@ -1,7 +1,8 @@
 ---
 title: Light and Full Post-editing
 layout: default
-nav_order: 4
+parent: Post-editing
+nav_order: 1
 ---
 # Light and Full Post-editing
 
