@@ -1,7 +1,8 @@
 ---
-title: Decline in Translation
+title:Decline in Translation
 layout: default
-nav_oder: 1
+nav_order: 1
+has_children: true
 ---
 
 # Decline in Translation Industry and Jevon's Paradox  
