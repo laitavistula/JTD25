@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Light and Full Post-editing
 
-For many years, there were no widely accepted standardized guidelines for post-editing. However, in 2017, ISO standard **18587:2017: Translation Services — Post-editing of Machine Translation Output — Requirements** was published, outlining the requirements for post-editing machine-generated translations.
+For many years, there were no widely accepted standardized guidelines for post-editing. However, in 2017, ISO standard **[18587:2017: Translation Services — Post-editing of Machine Translation Output — Requirements](https://www.iso.org/standard/62970.html)** was published, outlining the requirements for post-editing machine-generated translations.
 
 In the 1980s, studies differentiated between various levels of post-editing, initially categorized as "conventional" and "rapid," or "full" and "rapid," in the context of the European Commission Translation Service. Today, the terms **"light"** and **"full"** post-editing are more commonly used.
 
